@@ -5,7 +5,7 @@ This is a simple dictionary application built with Python and Tkinter GUI librar
 ## Features
 
 1. **Word Definitions**: Users can enter a word in the search box and get its definitions in English.
-2. **Language Support**: The application supports translation of words from English to Hindi.
+2. **Language Support**: The application supports the translation of words from English to Hindi.
 3. **Simple Interface**: Clean and easy-to-use interface built with Tkinter.
 4. **Image Display**: The application displays an image related to the searched word.
 5. **Cross-Platform**: Works on any platform where Python and Tkinter are installed.
@@ -19,7 +19,7 @@ This is a simple dictionary application built with Python and Tkinter GUI librar
 
 ## Installation
 
-1. Clone the repository:git clone https: //github.com/your-username/dictionary-app.git
+1. Clone the repository: git clone https: //github.com/your-username/dictionary-app.git
 2. Install the required dependencies: pip install -r requirements.txt
 
 ## Usage
