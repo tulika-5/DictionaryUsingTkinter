@@ -19,7 +19,7 @@ This is a simple dictionary application built with Python and Tkinter GUI librar
 
 ## Installation
 
-1. Clone the repository: git clone https: //github.com/your-username/dictionary-app.git
+1. Clone the repository: git clone https://github.com/tulika-5/DictionaryUsingTkinter.git
 2. Install the required dependencies: pip install -r requirements.txt
 
 ## Usage
